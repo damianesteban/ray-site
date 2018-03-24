@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on Erlich Bachman</title>
+    <title>Tags on Jason Lyle Goldberg</title>
     <link>/tags/</link>
-    <description>Recent content in Tags on Erlich Bachman</description>
+    <description>Recent content in Tags on Jason Lyle Goldberg</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
-    <lastBuildDate>Sun, 02 Oct 2016 22:55:05 -0400</lastBuildDate>
+    <lastBuildDate>Fri, 02 Mar 2018 22:55:05 -0400</lastBuildDate>
     
 	<atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     
@@ -14,54 +14,27 @@
     <item>
       <title>About</title>
       <link>/tags/about/</link>
-      <pubDate>Sun, 02 Oct 2016 22:55:05 -0400</pubDate>
+      <pubDate>Fri, 02 Mar 2018 22:55:05 -0400</pubDate>
       
       <guid>/tags/about/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Belson</title>
-      <link>/tags/belson/</link>
-      <pubDate>Mon, 03 Oct 2016 16:59:13 -0400</pubDate>
+      <title>Author</title>
+      <link>/tags/author/</link>
+      <pubDate>Fri, 02 Mar 2018 15:59:13 -0400</pubDate>
       
-      <guid>/tags/belson/</guid>
+      <guid>/tags/author/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Ceo</title>
-      <link>/tags/ceo/</link>
-      <pubDate>Sat, 01 Oct 2016 16:59:13 -0400</pubDate>
+      <title>Literature</title>
+      <link>/tags/literature/</link>
+      <pubDate>Fri, 02 Mar 2018 15:59:13 -0400</pubDate>
       
-      <guid>/tags/ceo/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Gavin</title>
-      <link>/tags/gavin/</link>
-      <pubDate>Mon, 03 Oct 2016 16:59:13 -0400</pubDate>
-      
-      <guid>/tags/gavin/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Hardware</title>
-      <link>/tags/hardware/</link>
-      <pubDate>Sun, 02 Oct 2016 15:59:13 -0400</pubDate>
-      
-      <guid>/tags/hardware/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Hooli</title>
-      <link>/tags/hooli/</link>
-      <pubDate>Mon, 03 Oct 2016 16:59:13 -0400</pubDate>
-      
-      <guid>/tags/hooli/</guid>
+      <guid>/tags/literature/</guid>
       <description></description>
     </item>
     
