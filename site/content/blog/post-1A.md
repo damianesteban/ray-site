@@ -1,6 +1,6 @@
 +++
 categories = ["blog"]
-comments = false
+comments = true
 date = "2020-07-18T15:59:13-04:00"
 draft = false
 showpagemeta = true
